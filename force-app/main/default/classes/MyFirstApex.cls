@@ -2,7 +2,7 @@ public with sharing class MyFirstApex {
     public MyFirstApex() {
 
     }
-    static void handleFirstMethod(){
+    public static void handleFirstMethod(){
         System.debug('Hello from Org to VS Code');
     }
 }
