@@ -35,6 +35,10 @@
     <types>
         <members>Example</members>
         <members>ExampleTest</members>
+        <members>MyFirstApex</members>
+        <members>MyFirstApexTest</members>
+        <members>MySecondApex</members>
+        <members>MySecondApexTest</members>
         <name>ApexClass</name>
     </types>
 

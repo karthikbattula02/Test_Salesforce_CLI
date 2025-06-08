@@ -1,5 +1,5 @@
-public with sharing class Example {
+public class Example {
     public static void execute() {
-        System.debug('This is Example.cls');
+        System.debug('Running example logic');
     }
 }
