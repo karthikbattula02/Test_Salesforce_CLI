@@ -1,0 +1,33 @@
+
+
+=== Test Results
+TEST NAME                              OUTCOME  MESSAGE  RUNTIME (MS)
+─────────────────────────────────────  ───────  ───────  ────────────
+MySecondApexTest.testConstructor       Pass              14          
+ExampleTest.testExecute                Pass              7           
+MyFirstApexTest.testHandleFirstMethod  Pass              17          
+
+
+=== Apex Code Coverage by Class
+CLASSES       PERCENT  UNCOVERED LINES
+────────────  ───────  ───────────────
+MyFirstApex   50%      2              
+MySecondApex  0%                      
+Example       100%                    
+
+
+=== Test Summary
+NAME                 VALUE                        
+───────────────────  ─────────────────────────────
+Outcome              Passed                       
+Tests Ran            3                            
+Pass Rate            100%                         
+Fail Rate            0%                           
+Skip Rate            0%                           
+Test Run Id          707dN00000Hv31j              
+Test Setup Time      0 ms                         
+Test Execution Time  38 ms                        
+Test Total Time      38 ms                        
+Org Id               00DdN00000gPfEHUA0           
+Username             karthikknvamma-lch7@force.com
+Org Wide Coverage    66%                          
